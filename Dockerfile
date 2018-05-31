@@ -1,5 +1,5 @@
 From ubuntu:latest
-Maintainer sddad
+Maintainer Lajkó Péter
 Run apt-get update \
 && apt-get -y upgrade  \
 && apt-get -y install mc \
